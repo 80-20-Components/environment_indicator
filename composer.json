@@ -93,7 +93,8 @@
             "drupal/core": {
             },
             "drupal/environment_indicator": {
-                "Drupal 9 Deprecated Code Report": "https://www.drupal.org/files/issues/2020-04-29/3042790-18.patch"
+                "Drupal 9 Deprecated Code Report": "https://www.drupal.org/files/issues/2020-04-29/3042790-18.patch",
+                "Coding Standards": "patches/coding-standards.patch"
             }
         }
     },
